@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.bfaqv.cn/sitemap.xml
